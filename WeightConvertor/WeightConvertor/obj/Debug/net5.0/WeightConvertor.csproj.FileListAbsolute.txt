@@ -1,0 +1,16 @@
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\bin\Debug\net5.0\WeightConvertor.exe
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\bin\Debug\net5.0\WeightConvertor.deps.json
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\bin\Debug\net5.0\WeightConvertor.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\bin\Debug\net5.0\WeightConvertor.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\bin\Debug\net5.0\WeightConvertor.dll
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\bin\Debug\net5.0\ref\WeightConvertor.dll
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\bin\Debug\net5.0\WeightConvertor.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\obj\Debug\net5.0\WeightConvertor.csprojAssemblyReference.cache
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\obj\Debug\net5.0\WeightConvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\obj\Debug\net5.0\WeightConvertor.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\obj\Debug\net5.0\WeightConvertor.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\obj\Debug\net5.0\WeightConvertor.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\obj\Debug\net5.0\WeightConvertor.dll
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\obj\Debug\net5.0\ref\WeightConvertor.dll
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\obj\Debug\net5.0\WeightConvertor.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\WeightConversions\WeightConvertor\WeightConvertor\obj\Debug\net5.0\WeightConvertor.genruntimeconfig.cache
